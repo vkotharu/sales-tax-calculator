@@ -1,0 +1,48 @@
+body {
+    font-family: Arial, Helvetica, sans-serif;
+    margin: 0 auto;
+    padding: 10px 20px;
+    width: 550px;
+}
+
+main {
+    padding: 1em 2em;
+    background-color: #DCFFDD;
+    border: 2px solid #13774B;
+    border-radius: 10px;
+}
+
+h1 {
+	color: #13774B;
+	margin-bottom: .5em;
+    text-align: center;
+}
+
+label {
+	float: left;
+    width: 6em;
+    text-align: left;
+}
+
+input {
+    margin-left: 1em;
+    margin-bottom: .5em;
+}
+
+
+hr {
+    border: 2px solid #13774B;
+}
+
+p {
+    font-weight: bold;
+}
+
+footer {
+    margin-top: 20px;
+    text-align: center;
+}
+
+footer > input {
+    width: 100px;
+}
